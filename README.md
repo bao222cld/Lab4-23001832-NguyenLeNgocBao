@@ -1,4 +1,4 @@
-# LAB 5 – Text Classification
+# LAB 4 – Text Classification
 
 ## 1. Mục tiêu
 Bài này nhằm xây dựng một hệ thống phân loại văn bản (text classification) sử dụng các phương pháp học máy cơ bản.  
