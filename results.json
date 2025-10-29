@@ -1,0 +1,33 @@
+[
+  {
+    "accuracy": 0.7325,
+    "precision": 0.6991503267973856,
+    "recall": 0.5440347891851012,
+    "f1": 0.5799279885584184,
+    "model": "tfidf_logreg_baseline"
+  },
+  {
+    "accuracy": 0.6575,
+    "precision": 0.7666666666666666,
+    "recall": 0.369014306422134,
+    "f1": 0.3357410405459382,
+    "model": "tfidf_multinb"
+  },
+  {
+    "accuracy": 0.7425,
+    "precision": 0.6636671233445427,
+    "recall": 0.5941955000945358,
+    "f1": 0.6190067483070244,
+    "model": "tfidf_logreg_gridsearch",
+    "best_params": {
+      "C": 10
+    }
+  },
+  {
+    "accuracy": 0.645,
+    "precision": 0.215,
+    "recall": 0.3333333333333333,
+    "f1": 0.26139817629179335,
+    "model": "word2vec_avg_logreg"
+  }
+]
